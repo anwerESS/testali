@@ -1,5 +1,7 @@
 #include <iostream> // Includes the iostream library for input/output operations
 
+#define MAX_SIZE    256
+
 
 
 
